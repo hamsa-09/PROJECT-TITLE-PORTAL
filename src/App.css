@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.hoverEffect {
+  transition: transform 0.3s;
+}
+
+.hoverEffect:hover {
+  transform: scale(1.1);
+}
